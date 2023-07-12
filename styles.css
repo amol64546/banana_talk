@@ -1,0 +1,49 @@
+body{
+    margin: 0px;
+  }
+  h1{
+    padding: 30px 0;
+    text-align: center;
+    margin-top: 0px;
+  }
+  header, footer{
+    margin: 0px;
+    background: #f2c94c;
+    
+  }
+  .english{
+    border: 3px solid black;
+    border-radius: 5px;
+  }
+  textarea{
+    padding: 0px;
+    
+  }
+  .banana{
+    overflow: scroll;
+  }
+  footer p{
+    margin: auto;
+    width: 500px;
+    text-align: center;
+    padding-bottom: 1.2em;
+  }
+  h2{
+    text-align: center;
+    padding-top: 1.2em;
+  }
+  
+  .container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  
+  
+  button{
+    border: none;
+    background: #f2c94c;
+    padding: 1.2em 1.8em;
+    margin: 1.2em 0em;
+  }
